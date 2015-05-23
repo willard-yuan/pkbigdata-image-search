@@ -1,1 +1,7 @@
-# pkbigdata-image-search
+在15万的衣服库上进行同一款衣服的搜索
+
+![](./clothes_250001-400-16.jpg)
+
+![](./clothes_250002-400-16.jpg)
+
+![](./clothes_250003-400-16.jpg)
